@@ -1,0 +1,1 @@
+The files for the Robot Maze project, which involves the construction of pathfinding algorithms for different types of mazes.
